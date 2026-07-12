@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 品質工学 先人の知を現場の力に
 
-## Getting Started
+品質工学や製造現場で蓄積された知識・実践知を、現場の技術課題の解決に活用するためのWebプロダクトです。
 
-First, run the development server:
+## このリポジトリについて
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+本リポジトリは、「品質工学 先人の知を現場の力に」の開発初期版であるv3・v4を管理しています。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+その後、機能追加と改善を行い、最終版v5は以下のリポジトリへ移行しました。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://github.com/tcyogawa-arch/impact-thinking-tool
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+最終版v5の公開URLはこちらです。
 
-## Learn More
+https://access-wisdom-v5.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
+## 開発上の位置づけ
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 本リポジトリ：v3・v4の開発記録
+- 最終版リポジトリ：impact-thinking-tool
+- 最終デプロイ版：access-wisdom-v5.vercel.app
